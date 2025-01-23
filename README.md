@@ -52,6 +52,13 @@
 </p>
 -->
 
+<h2 align="center">
+  <picture>
+    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px">
+  </picture>
+  Connect with me
+</h2>
+
 <p align="center">
   <a href="https://sasukemc.dev/" 
      style="
