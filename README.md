@@ -52,7 +52,22 @@
 </p>
 -->
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-	<a href="mailto:contact@sasukemc.dev">My web</a>
+  <a href="https://sasukemc.dev/" 
+     style="
+       display: inline-block;
+       padding: 12px 30px;
+       background: linear-gradient(270deg, #0ea5e9, #0284c7);
+       color: white;
+       text-decoration: none;
+       border-radius: 10px;
+       font-weight: 600;
+       font-size: 16px;
+       box-shadow: 0 4px 6px -1px rgba(14, 165, 233, 0.2);
+       transition: all 0.3s ease;
+     "
+     onmouseover="this.style.transform='translateY(-2px)'"
+     onmouseout="this.style.transform='translateY(0)'">
+    🌐 Portfolio Website
+  </a>
 </p>
