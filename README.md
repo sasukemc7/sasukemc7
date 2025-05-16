@@ -60,7 +60,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://sasukemc.dev/" 
+  <a href="https://sasukemc.com/" 
      style="
        display: inline-block;
        padding: 12px 30px;
