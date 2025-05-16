@@ -16,7 +16,7 @@
 
 <!-- Navegación por pestañas - Inicio -->
 <div align="center">
-  <a href="https://sasukemc.com" target="_blank" style="text-decoration: none;">
+  <a href="https://sasukemc.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/SOBRE_MÍ-8A2BE2?style=for-the-badge&logoColor=white" alt="Sobre Mí" />
   </a>
   <a href="https://sasukemc.com/#skills" style="text-decoration: none;">
