@@ -33,3 +33,8 @@
   </a>
 </div>
 <!-- Navegación por pestañas - Fin -->
+<div align="center">
+  <a href="https://sasukemc.com">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,100:8A2BE2&height=120&section=footer&fontSize=70" width="100%" />
+  </a>
+</div>
