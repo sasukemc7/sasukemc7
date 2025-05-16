@@ -25,7 +25,7 @@
   <a href="https://sasukemc.com/#projects" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/PROYECTOS-9370DB?style=for-the-badge&logoColor=white" alt="Proyectos" />
   </a>
-  <a href="https://sasukemc.com/stats" style="text-decoration: none;">
+  <a href="https://sasukemc.com/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/ESTADÍSTICAS-8A2BE2?style=for-the-badge&logoColor=white" alt="Estadísticas" />
   </a>
   <a href="https://sasukemc.com/#contact" style="text-decoration: none;">
